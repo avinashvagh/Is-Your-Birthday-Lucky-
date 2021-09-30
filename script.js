@@ -34,7 +34,7 @@ function calculationSum(date){
     sum = sum + dob.charAt(index);
 
   }
-  return = sum;
+  return sum;
 }
 
 
