@@ -1,14 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
 
-
-body{
-  background-color: gray;
+body {
+  background-color: #8592a5;
   color: aquamarine;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 
-
-h1{
+h1 {
   text-align: center;
 }
 .container {
@@ -16,22 +14,23 @@ h1{
   margin: auto;
 }
 
-input, label{
-display:block;
+input,
+label {
+  display: block;
 }
 
-input{
+input {
   margin-bottom: 0.5rem;
   width: 100%;
 }
 
 #check-number {
-  display:block;
-  margin-top:1rem;
-  margin:auto;
+  display: block;
+  margin-top: 1rem;
+  margin: auto;
   background: transparent;
-  color:aquamarine;
-  border-color:aquamarine;
+  color: aquamarine;
+  border-color: aquamarine;
   border-width: medium;
   padding: 0.5rem;
   border-radius: 0.3rem;
